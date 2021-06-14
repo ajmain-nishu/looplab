@@ -1,0 +1,31 @@
+/* navigaton section start */
+.navbar {
+    border-bottom: 4px solid #008ed6;
+    background-color: #292b2c;
+    opacity: .8;
+}
+/* navigation section end */
+
+
+
+
+/* home section start */
+#home {
+    background: url('images/home.jpg'), rgba(0, 0, 0, .7);
+    background-blend-mode: multiply;
+    background-size: cover;
+    background-attachment: fixed;
+}
+.form-color {
+    opacity: .8;
+}
+/* home section end */
+
+
+
+
+/* footer section start */
+textarea {
+    resize: none;
+}
+/* footer section end */
